@@ -5,9 +5,9 @@
   "license": "MIT",
   "require": {
     "php": ">=8.2",
-    "symfony/ai-store": "dev-main",
-    "symfony/ai-platform": "dev-main",
-    "symfony/ai-agent": "dev-main"
+    "damijanc/ai-store": "dev-main",
+    "damijanc/ai-platform": "dev-main",
+    "damijanc/ai-agent": "dev-main"
   },
     "autoload": {
         "psr-4": {
