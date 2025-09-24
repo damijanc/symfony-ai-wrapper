@@ -5,7 +5,9 @@
   "license": "MIT",
   "require": {
     "php": ">=8.2",
-    "damijanc/ai-store": "dev-main"
+    "damijanc/ai-store": "dev-main",
+    "damijanc/ai-platform": "dev-main",
+    "damijanc/ai-agent": "dev-main",
   },
   "repositories": [
     {
