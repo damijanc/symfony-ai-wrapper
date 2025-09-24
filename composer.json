@@ -1,0 +1,25 @@
+{
+  "name": "spryker-community/3d-product-visualizer",
+  "type": "library",
+  "description": "Spryker Symfony AI wrapper",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.2",
+    "symfony/ai-store": "dev-main",
+    "symfony/ai-platform": "dev-main",
+    "symfony/ai-agent": "dev-main"
+  },
+    "autoload": {
+        "psr-4": {
+            "SprykerCommunity\\": "src/SprykerCommunity"
+        }
+    },
+    "authors": [
+        {
+            "name": "Damijan Cavar",
+            "email": "damijan.cavar@turbinekreuzberg.com"
+        }
+    ],
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
