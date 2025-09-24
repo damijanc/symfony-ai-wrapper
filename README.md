@@ -45,6 +45,15 @@ The module comes with a transfer definition. You must regenerate the transfer cl
 vendor/bin/console transfer:generate
 ```
 
+### 5. Register the router
+
+Register the plugin in: src/Pyz/Yves/Router/RouterDependencyProvider::getRouteProvider()
+
+### 6. Register MCP in claude
+
+http://yves.us.spryker.local/mcp and use method "listTools" to see what the mcp server can do.
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
