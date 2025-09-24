@@ -1,4 +1,4 @@
-# Spryker Product 3D Viewer Widget
+# Spryker Symfony AI Wrapper
 
 [![Latest Version](https://img.shields.io/packagist/v/spryker-community/product-3d-viewer.svg?style=flat-square)](https://packagist.org/packages/spryker-community/product-3d-viewer)
 [![MIT Licensed](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
